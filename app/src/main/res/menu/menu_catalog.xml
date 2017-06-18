@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dell.attendancemanager.CatalogActivity">
+    <item
+        android:id="@+id/insert_dummy_data"
+        android:title="Insert dummy data"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/delete_all_pets"
+        android:title="Delete"
+        app:showAsAction="never" />
+
+
+</menu>
